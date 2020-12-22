@@ -5,3 +5,4 @@
 <li> 3.COVID-19 Cases in INDIA</li>
 <li> 4.Breast Cancer Analysis</li>
 <li> 5.Crime Analysis of Sanfrancisco</li>
+<li> 6. EDA on Iris Data Set </li>
